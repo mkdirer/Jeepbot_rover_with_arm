@@ -5,7 +5,7 @@ The Jeep-Bot project is an educational manipulator placed on a rover that uses s
 The main goal of the project is to create a cheap and functional design that can be controlled by a simple application. The project aims to achieve this goal by designing the mechanical parts of the Jeep-Bot, creating the robot's electronics to work with an external control system, writing software, creating an application for control, and conducting research.
 
 ## Technical Documentation
-The technical documentation of the project describes the mechanical and electronic construction of the robot, as well as the software used to control the actuators and the application. The robot's control system only allows basic exercises related to identifying the geometric parameters of the manipulator.
+The technical documentation of the project describes the mechanical and electronic construction of the robot, as well as the software used to control the actuators and the application. The robot's control system only allows basic exercises related to identifying the geometric parameters of the manipulator. 
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/83553257/225893059-c98bee8a-22e2-45e6-9fd1-c5f53bdb8818.png" width="65%" height="65%">
